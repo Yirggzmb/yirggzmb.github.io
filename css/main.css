@@ -1,9 +1,24 @@
 body{
-	background-color: #ffeeff;
+	background-color: #ffddcc;
+	font-size: 100%
 }
-
-h1, h2 {
-	border-bottom-style: solid;
-	border-color: #ff4400;
-	width:30%;
+img.thumb{
+	width: 30%;
+}
+.text{
+	max-width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 5px solid #ffaaaa;
+	padding: 1%;
+	background-color: #ffeeee;
+}
+h1, h2{
+	text-align: center;
+}
+.go-back{
+	font-size: 0.8em;
+}
+.footer{
+	font-size: 0.6em;
 }
