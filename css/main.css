@@ -1,0 +1,9 @@
+body{
+	background-color: #ffeeff;
+}
+
+h1, h2 {
+	border-bottom-style: solid;
+	border-color: #ff4400;
+	width:30%;
+}
