@@ -1,6 +1,7 @@
-/*body{
+body{
 	background-color: #ffddcc;
-	font-size: 100%;
+	font-size: 14pt;
+	min-height: 700px;
 }
 img.thumb{
 	width: 30%;
@@ -29,4 +30,3 @@ h1, h2{
 		margin-right: auto;
 	}
 }
-*/
