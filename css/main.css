@@ -6,9 +6,6 @@ img.thumb{
 	width: 30%;
 }
 .text{
-	max-width: 700px;
-	margin-left: auto;
-	margin-right: auto;
 	border: 5px solid #ffaaaa;
 	padding: 1%;
 	background-color: #ffeeee;
@@ -25,8 +22,10 @@ h1, h2{
 }
 
 
-@media (max-width: 1180px) {
-	.text{
-		max-width: 1180px;
+@media (min-width: 1180px) {
+	.text{	
+		max-width: 700px;
+		margin-left: auto;
+		margin-right: auto;
 	}
 }
