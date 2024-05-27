@@ -23,3 +23,10 @@ h1, h2{
 .footer{
 	font-size: 0.6em;
 }
+
+
+@media (max-width: 1080px) {
+	.text{
+		max-width: 100%;
+	}
+}
