@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Yirggzmb's Stuff</title>
+    <description>Yirggzmb's personal website, assorted video game and craft stuff</description>
+    <link>https://yirggzmb.github.io/</link>
+    <image>
+      <url>https://yirggzmb.github.io/logo.png</url>
+      <title>Yirggzmb's Stuff</title>
+      <link>https://yirggzmb.github.io/</link>
+    </image>
+	
+	<item>
+	  <title>Red Heart Granny all in one Square Yarn Experiment</title>
+	  <link>https://yirggzmb.github.io/yarncrafts/GrannyAllInOneSquare.html</link>
+	  <description>I'm fascinated by novelty yarns, especially the kind where it's something they're doing with color rather than texture. So while I knew going in that this "make a many color granny square without having to change yarns" idea was going to be a bit futzy, I was really curious JUST how annoying it would be. So here is a log of my attempt and general thoughts.</description>
+	  <pubDate>Tue, 28 Jun 2024 00:30:00 EST</pubDate>
+	  <enclosure length="195094" type="image/jp2" url="https://yirggzmb.github.io/yarncrafts/images/grannyallinone/001.jpg" />
+	</item>
+	
+  </channel>
+</rss>
