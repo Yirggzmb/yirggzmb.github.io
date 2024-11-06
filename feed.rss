@@ -10,7 +10,15 @@
       <link>https://yirggzmb.github.io/</link>
     </image>
 	
-		<item>
+	<item>
+	  <title>Jack-o-Lantern Gallery</title>
+	  <link>https://yirggzmb.github.io/miscart/pumpkins.html</link>
+	  <description>Added a section for misc art and a gallery of Jack-o-Lanterns I've done over the years. </description>
+	  <pubDate>06 Nov 2024 05:45:00 GMT</pubDate>
+	  <enclosure length="150605" type="image/png" url="https://yirggzmb.github.io/miscart/images/pumpkins/2024-boththumb.jpg" />
+	</item>
+	
+	<item>
 	  <title>Tiny Life</title>
 	  <link>https://yirggzmb.github.io/tinylife/index.html</link>
 	  <description>Added a section for Tiny Life creations. </description>
