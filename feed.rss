@@ -11,11 +11,19 @@
     </image>
 	
 	<item>
+	  <title>Critterpedia Field Journal</title>
+	  <link>https://yirggzmb.github.io/animalcrossing/critterbook.html</link>
+	  <description>Added a page for the Animal Crossing real world Critterpedia I created. This page features both photos of mine, as well as files and information about making one yourself. </description>
+	  <pubDate>31 May 2025 06:25:00 GMT</pubDate>
+	  <enclosure length="163840" type="image/jpg" url="https://yirggzmb.github.io/animalcrossing/images/critterbook/book-small.jpg" />
+	</item>
+	
+	<item>
 	  <title>Jack-o-Lantern Gallery</title>
 	  <link>https://yirggzmb.github.io/miscart/pumpkins.html</link>
 	  <description>Added a section for misc art and a gallery of Jack-o-Lanterns I've done over the years. </description>
 	  <pubDate>06 Nov 2024 05:45:00 GMT</pubDate>
-	  <enclosure length="150605" type="image/png" url="https://yirggzmb.github.io/miscart/images/pumpkins/2024-boththumb.jpg" />
+	  <enclosure length="150605" type="image/jpg" url="https://yirggzmb.github.io/miscart/images/pumpkins/2024-boththumb.jpg" />
 	</item>
 	
 	<item>
