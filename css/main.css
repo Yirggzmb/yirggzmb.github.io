@@ -15,6 +15,10 @@ img.thumb{
 h1, h2{
 	text-align: center;
 }
+h4{
+	text-decoration: underline;
+	font-size: 1.17em;
+}
 .go-back{
 	font-size: 0.8em;
 }
