@@ -3,74 +3,81 @@
   <channel>
     <title>Yirggzmb's Stuff</title>
     <description>Yirggzmb's personal website, assorted video game and craft stuff</description>
-    <link>https://yirggzmb.github.io/</link>
+    <link>https://yirggzmb.net/</link>
     <image>
-      <url>https://yirggzmb.github.io/logo.png</url>
+      <url>https://yirggzmb.net/logo.png</url>
       <title>Yirggzmb's Stuff</title>
-      <link>https://yirggzmb.github.io/</link>
+      <link>https://yirggzmb.net/</link>
     </image>
 		
 	<item>
 	  <title>(Blog) Pink Puffball Plush Pattern</title>
-	  <link>https://yirggzmb.github.io/blog/entries/2026-08-06_puffballplush.html</link>
+	  <link>https://yirggzmb.net/blog/entries/2026-08-06_puffballplush.html</link>
 	  <description>A pattern for a 8in tall pink puffball creature</description>
 	  <pubDate>6 Aug 2026 04:36:00 GMT</pubDate>
-	  <enclosure length="196608" type="image/jpg" url="https://yirggzmb.github.io/blog/entries/images/2026-08-05_puffball.jpg" />
+	  <enclosure length="196608" type="image/jpg" url="https://yirggzmb.net/blog/entries/images/2026-08-05_puffball.jpg" />
+	</item>
+		
+	<item>
+	  <title>New link!</title>
+	  <link>https://yirggzmb.net/</link>
+	  <description>This is just a heads up that we have obtained a domain name! Please update your bookmarks to yirggzmb.net, thank you! The old links should automatically redirect for now, but if I ever change hosts that'll stop. Thank you for reading!</description>
+	  <pubDate>20 Sep 2026 05:14:00 GMT</pubDate>
 	</item>
 	
 	<item>
 	  <title>(Blog) Most patterns are boring</title>
-	  <link>https://yirggzmb.github.io/blog/entries/2026-05-07.html</link>
+	  <link>https://yirggzmb.net/blog/entries/2026-05-07.html</link>
 	  <description>You heard me right, and I stand by it. This is not to say that patterns are bad. It's just that I find the vast majority of them deeply dull. I feel like there's three main uses of a pattern. 1) You do not know how to make an object that shape. 2) You want someone to do all the math and figuring out for you. 3) The pattern is doing something truly novel. Only the last of these is actually interesting to me anymore. (read more on blog...)</description>
 	  <pubDate>7 May 2026 23:00:00 GMT</pubDate>
 	</item>
 	
 	<item>
 	  <title>Critterpedia link fix</title>
-	  <link>https://yirggzmb.github.io/animalcrossing/CritterBook.html</link>
+	  <link>https://yirggzmb.net/animalcrossing/CritterBook.html</link>
 	  <description>This is a fixed link for the critterpedia journal, sorry </description>
 	  <pubDate>31 May 2025 15:33:00 GMT</pubDate>
-	  <enclosure length="163840" type="image/jpg" url="https://yirggzmb.github.io/animalcrossing/images/critterbook/book-small.jpg" />
+	  <enclosure length="163840" type="image/jpg" url="https://yirggzmb.net/animalcrossing/images/critterbook/book-small.jpg" />
 	</item>
 	
 	<item>
 	  <title>Critterpedia Field Journal</title>
-	  <link>https://yirggzmb.github.io/animalcrossing/critterbook.html</link>
+	  <link>https://yirggzmb.net/animalcrossing/critterbook.html</link>
 	  <description>Added a page for the Animal Crossing real world Critterpedia I created. This page features both photos of mine, as well as files and information about making one yourself. </description>
 	  <pubDate>31 May 2025 06:25:00 GMT</pubDate>
-	  <enclosure length="163840" type="image/jpg" url="https://yirggzmb.github.io/animalcrossing/images/critterbook/book-small.jpg" />
+	  <enclosure length="163840" type="image/jpg" url="https://yirggzmb.net/animalcrossing/images/critterbook/book-small.jpg" />
 	</item>
 	
 	<item>
 	  <title>Jack-o-Lantern Gallery</title>
-	  <link>https://yirggzmb.github.io/miscart/pumpkins.html</link>
+	  <link>https://yirggzmb.net/miscart/pumpkins.html</link>
 	  <description>Added a section for misc art and a gallery of Jack-o-Lanterns I've done over the years. </description>
 	  <pubDate>06 Nov 2024 05:45:00 GMT</pubDate>
-	  <enclosure length="150605" type="image/jpg" url="https://yirggzmb.github.io/miscart/images/pumpkins/2024-boththumb.jpg" />
+	  <enclosure length="150605" type="image/jpg" url="https://yirggzmb.net/miscart/images/pumpkins/2024-boththumb.jpg" />
 	</item>
 	
 	<item>
 	  <title>Tiny Life</title>
-	  <link>https://yirggzmb.github.io/tinylife/index.html</link>
+	  <link>https://yirggzmb.net/tinylife/index.html</link>
 	  <description>Added a section for Tiny Life creations. </description>
 	  <pubDate>02 Oct 2024 03:05:00 GMT</pubDate>
-	  <enclosure length="305212" type="image/png" url="https://yirggzmb.github.io/tinylife/images/verdantshores/map.png" />
+	  <enclosure length="305212" type="image/png" url="https://yirggzmb.net/tinylife/images/verdantshores/map.png" />
 	</item>
 	
 	<item>
 	  <title>Custom Designs - Wild World</title>
-	  <link>https://yirggzmb.github.io/animalcrossing/WWCustomDesigns.html</link>
+	  <link>https://yirggzmb.net/animalcrossing/WWCustomDesigns.html</link>
 	  <description>Here are a selection of custom designs created in Wild World. The only way to get them is to recreate them yourself in game. These may also be useful in other games, however the color palettes there are different and you may have to tinker. Click on any image to see it larger. Each design will have, at minimum, a screenshot of the design in the designer with and without the grid. There will also likely be at least one image with the design using an alternative palette, so as to make the specific colors more clear which is used where. Where possible, I've also added screenshots or photos of the designs used in game, some in emulator and others photos of my actual DS.</description>
 	  <pubDate>31 May 2024 00:05:00 GMT</pubDate>
-	  <enclosure length="198580" type="image/png" url="https://yirggzmb.github.io/animalcrossing/images/designs/ww/BlueTiles.png" />
+	  <enclosure length="198580" type="image/png" url="https://yirggzmb.net/animalcrossing/images/designs/ww/BlueTiles.png" />
 	</item>
 	
 	<item>
 	  <title>Red Heart Granny all in one Square Yarn Experiment</title>
-	  <link>https://yirggzmb.github.io/yarncrafts/GrannyAllInOneSquare.html</link>
+	  <link>https://yirggzmb.net/yarncrafts/GrannyAllInOneSquare.html</link>
 	  <description>I'm fascinated by novelty yarns, especially the kind where it's something they're doing with color rather than texture. So while I knew going in that this "make a many color granny square without having to change yarns" idea was going to be a bit futzy, I was really curious JUST how annoying it would be. So here is a log of my attempt and general thoughts.</description>
 	  <pubDate>28 May 2024 04:30:00 GMT</pubDate>
-	  <enclosure length="195094" type="image/jp2" url="https://yirggzmb.github.io/yarncrafts/images/grannyallinone/001.jpg" />
+	  <enclosure length="195094" type="image/jp2" url="https://yirggzmb.net/yarncrafts/images/grannyallinone/001.jpg" />
 	</item>
 	
   </channel>
